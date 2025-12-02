@@ -91,7 +91,7 @@ FARM/
 - ✅ Updated company name to "ATL FARMS"
 - ✅ Changed experience from 50+ to 25+ years
 - ✅ Updated address to "Cape Coast Highway, ATL FARMS, Cape Coast, Ghana"
-- ✅ Updated phone number to "+233 591 69 55 68"
+- ✅ Updated phone number to "+233 5xxxxxxxx"
 - ✅ Added Gallery link to navigation menu
 
 ## 🔄 Future Changes Tracking
@@ -107,7 +107,7 @@ Use this section to document any major changes or features you add:
 
 ## 📞 Contact Information
 
-- **Address**: Cape Coast Highway, ATL FARMS, Cape Coast, Ghana
+- **Address**: Cape g Highway,xxxxxxxxxxxxxxxx
 - **Phone**: +233 591 6xxxxxxx
 - **Email**: info@atlfarms.com
 
