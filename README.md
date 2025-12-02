@@ -90,7 +90,7 @@ FARM/
 #### Content Updates
 - ✅ Updated company name to "ATL FARMS"
 - ✅ Changed experience from 50+ to 25+ years
-- ✅ Updated address to "Cape Coast Highway, ATL FARMS, Cape Coast, Ghana"
+- ✅ Updated address to "Cape xxxxxxxxxxxxxxxx"
 - ✅ Updated phone number to "+233 5xxxxxxxx"
 - ✅ Added Gallery link to navigation menu
 
